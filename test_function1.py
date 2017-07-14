@@ -11,3 +11,8 @@ def test_case001():
 def test_case002():
     print("case002")
     assert "case002"
+
+
+def test_case003():
+    print("case003")
+    assert "case003"
